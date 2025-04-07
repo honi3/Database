@@ -17,10 +17,10 @@ ENTITIES
 
 
 KEY FEATURES
-PROJECT TRACKING: manage timelines, cost, and status.
-CLIENT MANAGEMENT: store client details and project history.
-MATERIAL TRACKING: tracks material quantity, price, and colors.
-FINANCIAL SYSTEM: revenue/ expense tracking, with auto-calculated profit monthly.
+1. PROJECT TRACKING: manage timelines, cost, and status.
+2. CLIENT MANAGEMENT: store client details and project history.
+3. MATERIAL TRACKING: tracks material quantity, price, and colors.
+4. FINANCIAL SYSTEM: revenue/ expense tracking, with auto-calculated profit monthly.
 
 
 
